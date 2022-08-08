@@ -1,0 +1,7 @@
+elements = input("Enter elements.")
+a=elements.split(" ")
+list=list(a)
+tuple=tuple(a)
+
+print("List :",list)
+print("Tuple :",tuple)
